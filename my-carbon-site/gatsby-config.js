@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/GitHubPages_gatsby-starter-carbon-theme',
   siteMetadata: {
     title: "Gatsby Theme Carbon",
     description: "A Gatsby theme for the carbon design system",
